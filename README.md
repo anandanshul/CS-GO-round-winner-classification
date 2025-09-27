@@ -20,7 +20,7 @@ The outcome of each round depends on the **in-game economy, weapons, and decisio
 ---
 
 ## 📂 Dataset
-- **Source:** [CSGO Round Snapshots (Kaggle)](https://www.kaggle.com/)  
+- **Source:** [CS:GO Professional Matches](https://www.kaggle.com/datasets/gabrieltardochi/counter-strike-global-offensive-matches)  
 - **File used:** `csgo_round_snapshots.csv`  
 - **Features:**  
   - Map information  
@@ -76,7 +76,7 @@ print("Accuracy:", accuracy_score(y_test, pred))
 **Best Accuracy:**
 
 ```text
-Optimal accuracy for Random Forest Classifier: ~XX%  (replace with your output)
+Optimal accuracy for Random Forest Classifier: ~88%  
 ```
 
 ---
