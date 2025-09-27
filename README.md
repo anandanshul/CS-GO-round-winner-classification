@@ -21,7 +21,7 @@ The outcome of each round depends on the **in-game economy, weapons, and decisio
 
 ## 📂 Dataset
 - **Source:** [CS:GO Professional Matches](https://www.kaggle.com/datasets/gabrieltardochi/counter-strike-global-offensive-matches)  
-- **File used:** `csgo_round_snapshots.csv`  
+- **File used:** `csgo_games.csv`  
 - **Features:**  
   - Map information  
   - Bomb plant status  
